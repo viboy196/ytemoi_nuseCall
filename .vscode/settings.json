@@ -1,0 +1,10 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "files.associations": {
+    "esp_bt.h": "c",
+    "i2s_stream.h": "c",
+    "i2s.h": "c",
+    "string.h": "c",
+    "esp_wifi.h": "c"
+  }
+}

@@ -1,0 +1,347 @@
+In archive C:/Users/viboy/Downloads/Workspace/Workspace/test/voip/build/esp-idf/audio_sal/libaudio_sal.a:
+
+audio_mem.c.obj:     file format elf32-xtensa-le
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .literal.audio_malloc 00000004  00000000  00000000  00000034  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  1 .literal.audio_free 00000004  00000000  00000000  00000038  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  2 .literal.audio_calloc 00000008  00000000  00000000  0000003c  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  3 .literal.audio_realloc 00000004  00000000  00000000  00000044  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  4 .literal.audio_strdup 0000000c  00000000  00000000  00000048  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  5 .literal.audio_calloc_inner 0000000c  00000000  00000000  00000054  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  6 .literal.audio_mem_print 00000020  00000000  00000000  00000060  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  7 .literal.audio_mem_spiram_stack_is_enabled 00000014  00000000  00000000  00000080  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  8 .text         00000000  00000000  00000000  00000094  2**0
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  9 .data         00000000  00000000  00000000  00000094  2**0
+                  CONTENTS, ALLOC, LOAD, DATA
+ 10 .bss          00000000  00000000  00000000  00000094  2**0
+                  ALLOC
+ 11 .text.audio_malloc 00000012  00000000  00000000  00000094  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 12 .text.audio_free 0000000e  00000000  00000000  000000a8  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 13 .text.audio_calloc 00000022  00000000  00000000  000000b8  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 14 .text.audio_realloc 00000014  00000000  00000000  000000dc  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 15 .text.audio_strdup 0000002a  00000000  00000000  000000f0  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 16 .text.audio_calloc_inner 00000019  00000000  00000000  0000011c  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 17 .rodata.str1.1 000000bd  00000000  00000000  00000135  2**0
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+ 18 .text.audio_mem_print 00000048  00000000  00000000  000001f4  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 19 .text.audio_mem_spiram_is_enabled 00000007  00000000  00000000  0000023c  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+ 20 .text.audio_mem_spiram_stack_is_enabled 00000030  00000000  00000000  00000244  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 21 .debug_frame  000000e8  00000000  00000000  00000274  2**2
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 22 .debug_info   000004f0  00000000  00000000  0000035c  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 23 .debug_abbrev 0000017d  00000000  00000000  0000084c  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 24 .debug_loc    00000174  00000000  00000000  000009c9  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 25 .debug_aranges 00000060  00000000  00000000  00000b3d  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 26 .debug_ranges 00000050  00000000  00000000  00000b9d  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 27 .debug_line   00000382  00000000  00000000  00000bed  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 28 .debug_str    0000038d  00000000  00000000  00000f6f  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 29 .comment      0000003c  00000000  00000000  000012fc  2**0
+                  CONTENTS, READONLY
+ 30 .xtensa.info  00000038  00000000  00000000  00001338  2**0
+                  CONTENTS, READONLY
+ 31 .xt.lit       00000040  00000000  00000000  00001370  2**0
+                  CONTENTS, RELOC, READONLY
+ 32 .xt.prop      000001c8  00000000  00000000  000013b0  2**0
+                  CONTENTS, RELOC, READONLY
+
+audio_sys.c.obj:     file format elf32-xtensa-le
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .literal.audio_sys_get_tick_by_time_ms 00000004  00000000  00000000  00000034  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  1 .literal.audio_sys_get_time_ms 00000008  00000000  00000000  00000038  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  2 .literal.audio_sys_get_real_time_stats 00000010  00000000  00000000  00000040  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  3 .text         00000000  00000000  00000000  00000050  2**0
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  4 .data         00000000  00000000  00000000  00000050  2**0
+                  CONTENTS, ALLOC, LOAD, DATA
+  5 .bss          00000000  00000000  00000000  00000050  2**0
+                  ALLOC
+  6 .text.audio_sys_get_tick_by_time_ms 0000000e  00000000  00000000  00000050  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  7 .text.audio_sys_get_time_ms 0000003b  00000000  00000000  00000060  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  8 .rodata.str1.1 000000c8  00000000  00000000  0000009b  2**0
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+  9 .text.audio_sys_get_real_time_stats 0000001f  00000000  00000000  00000164  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 10 .data.task_stack 00000008  00000000  00000000  00000184  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, DATA
+ 11 .data.task_state 00000014  00000000  00000000  0000018c  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, DATA
+ 12 .debug_frame  00000058  00000000  00000000  000001a0  2**2
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 13 .debug_info   00000287  00000000  00000000  000001f8  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 14 .debug_abbrev 00000127  00000000  00000000  0000047f  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 15 .debug_loc    00000021  00000000  00000000  000005a6  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 16 .debug_aranges 00000030  00000000  00000000  000005c7  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 17 .debug_ranges 00000020  00000000  00000000  000005f7  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 18 .debug_line   0000022a  00000000  00000000  00000617  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 19 .debug_str    00000309  00000000  00000000  00000841  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 20 .comment      0000003c  00000000  00000000  00000b4a  2**0
+                  CONTENTS, READONLY
+ 21 .xtensa.info  00000038  00000000  00000000  00000b86  2**0
+                  CONTENTS, READONLY
+ 22 .xt.lit       00000018  00000000  00000000  00000bbe  2**0
+                  CONTENTS, RELOC, READONLY
+ 23 .xt.prop      000000b4  00000000  00000000  00000bd6  2**0
+                  CONTENTS, RELOC, READONLY
+
+audio_thread.c.obj:     file format elf32-xtensa-le
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .literal.xTaskCreateRestrictedPinnedToCore 00000014  00000000  00000000  00000034  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  1 .literal.audio_thread_create 00000054  00000000  00000000  00000048  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  2 .literal.audio_thread_delete_task 00000004  00000000  00000000  0000009c  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  3 .text         00000000  00000000  00000000  000000a0  2**0
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  4 .data         00000000  00000000  00000000  000000a0  2**0
+                  CONTENTS, ALLOC, LOAD, DATA
+  5 .bss          00000000  00000000  00000000  000000a0  2**0
+                  ALLOC
+  6 .rodata.str1.1 000001ea  00000000  00000000  000000a0  2**0
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+  7 .text.xTaskCreateRestrictedPinnedToCore 00000022  00000000  00000000  0000028c  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  8 .text.audio_thread_create 0000010e  00000000  00000000  000002b0  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  9 .text.audio_thread_cleanup 00000007  00000000  00000000  000003c0  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+ 10 .text.audio_thread_delete_task 00000010  00000000  00000000  000003c8  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 11 .rodata.__FUNCTION__$5349 00000014  00000000  00000000  000003d8  2**0
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+ 12 .rodata.__func__$5336 00000022  00000000  00000000  000003ec  2**0
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+ 13 .debug_frame  00000070  00000000  00000000  00000410  2**2
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 14 .debug_info   00000607  00000000  00000000  00000480  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 15 .debug_abbrev 00000190  00000000  00000000  00000a87  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 16 .debug_loc    00000193  00000000  00000000  00000c17  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 17 .debug_aranges 00000038  00000000  00000000  00000daa  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 18 .debug_ranges 00000040  00000000  00000000  00000de2  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 19 .debug_line   0000030b  00000000  00000000  00000e22  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 20 .debug_str    000004b9  00000000  00000000  0000112d  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 21 .comment      0000003c  00000000  00000000  000015e6  2**0
+                  CONTENTS, READONLY
+ 22 .xtensa.info  00000038  00000000  00000000  00001622  2**0
+                  CONTENTS, READONLY
+ 23 .xt.lit       00000018  00000000  00000000  0000165a  2**0
+                  CONTENTS, RELOC, READONLY
+ 24 .xt.prop      000000f0  00000000  00000000  00001672  2**0
+                  CONTENTS, RELOC, READONLY
+
+audio_url.c.obj:     file format elf32-xtensa-le
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .literal.audio_url_encode 00000030  00000000  00000000  00000034  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  1 .literal.audio_url_decode 00000028  00000000  00000000  00000064  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  2 .text         00000000  00000000  00000000  0000008c  2**0
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  3 .data         00000000  00000000  00000000  0000008c  2**0
+                  CONTENTS, ALLOC, LOAD, DATA
+  4 .bss          00000000  00000000  00000000  0000008c  2**0
+                  ALLOC
+  5 .rodata.str1.1 0000007c  00000000  00000000  0000008c  2**0
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+  6 .text.audio_url_encode 0000012a  00000000  00000000  00000108  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  7 .text.audio_url_decode 000000a5  00000000  00000000  00000234  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  8 .rodata.__FUNCTION__$3350 00000011  00000000  00000000  000002d9  2**0
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+  9 .rodata.__FUNCTION__$3340 00000011  00000000  00000000  000002ea  2**0
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+ 10 .debug_frame  00000040  00000000  00000000  000002fc  2**2
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 11 .debug_info   0000039b  00000000  00000000  0000033c  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 12 .debug_abbrev 000001a2  00000000  00000000  000006d7  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 13 .debug_loc    000001a4  00000000  00000000  00000879  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 14 .debug_aranges 00000028  00000000  00000000  00000a1d  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 15 .debug_ranges 00000048  00000000  00000000  00000a45  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 16 .debug_line   000002ff  00000000  00000000  00000a8d  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 17 .debug_str    0000028a  00000000  00000000  00000d8c  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 18 .comment      0000003c  00000000  00000000  00001016  2**0
+                  CONTENTS, READONLY
+ 19 .xtensa.info  00000038  00000000  00000000  00001052  2**0
+                  CONTENTS, READONLY
+ 20 .xt.lit       00000010  00000000  00000000  0000108a  2**0
+                  CONTENTS, RELOC, READONLY
+ 21 .xt.prop      000000fc  00000000  00000000  0000109a  2**0
+                  CONTENTS, RELOC, READONLY
+
+audio_mutex.c.obj:     file format elf32-xtensa-le
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .literal.xQueueSemaphoreTake 00000004  00000000  00000000  00000034  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  1 .literal.mutex_create 00000004  00000000  00000000  00000038  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  2 .literal.mutex_destroy 00000004  00000000  00000000  0000003c  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  3 .literal.mutex_lock 00000004  00000000  00000000  00000040  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  4 .literal.mutex_unlock 00000004  00000000  00000000  00000044  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  5 .text         00000000  00000000  00000000  00000048  2**0
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  6 .data         00000000  00000000  00000000  00000048  2**0
+                  CONTENTS, ALLOC, LOAD, DATA
+  7 .bss          00000000  00000000  00000000  00000048  2**0
+                  ALLOC
+  8 .text.xQueueSemaphoreTake 00000015  00000000  00000000  00000048  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  9 .text.mutex_create 00000010  00000000  00000000  00000060  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 10 .text.mutex_destroy 00000010  00000000  00000000  00000070  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 11 .text.mutex_lock 00000018  00000000  00000000  00000080  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 12 .text.mutex_unlock 00000015  00000000  00000000  00000098  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 13 .debug_frame  00000088  00000000  00000000  000000b0  2**2
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 14 .debug_info   00000267  00000000  00000000  00000138  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 15 .debug_abbrev 000000be  00000000  00000000  0000039f  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 16 .debug_loc    000000c2  00000000  00000000  0000045d  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 17 .debug_aranges 00000040  00000000  00000000  0000051f  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 18 .debug_ranges 00000030  00000000  00000000  0000055f  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 19 .debug_line   000001b6  00000000  00000000  0000058f  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 20 .debug_str    00000297  00000000  00000000  00000745  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 21 .comment      0000003c  00000000  00000000  000009dc  2**0
+                  CONTENTS, READONLY
+ 22 .xtensa.info  00000038  00000000  00000000  00000a18  2**0
+                  CONTENTS, READONLY
+ 23 .xt.lit       00000028  00000000  00000000  00000a50  2**0
+                  CONTENTS, RELOC, READONLY
+ 24 .xt.prop      000000fc  00000000  00000000  00000a78  2**0
+                  CONTENTS, RELOC, READONLY
+
+audio_queue.c.obj:     file format elf32-xtensa-le
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .literal.audio_queue_create 00000004  00000000  00000000  00000034  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  1 .literal.audio_queue_delete 00000004  00000000  00000000  00000038  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  2 .literal.audio_queue_send 00000008  00000000  00000000  0000003c  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  3 .literal.audio_queue_send_to_front 00000008  00000000  00000000  00000044  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  4 .literal.audio_queue_recv 00000008  00000000  00000000  0000004c  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  5 .literal.audio_queue_message_available 00000004  00000000  00000000  00000054  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  6 .literal.audio_queue_spaces_available 00000004  00000000  00000000  00000058  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  7 .text         00000000  00000000  00000000  0000005c  2**0
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  8 .data         00000000  00000000  00000000  0000005c  2**0
+                  CONTENTS, ALLOC, LOAD, DATA
+  9 .bss          00000000  00000000  00000000  0000005c  2**0
+                  ALLOC
+ 10 .text.audio_queue_create 00000014  00000000  00000000  0000005c  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 11 .text.audio_queue_delete 00000010  00000000  00000000  00000070  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 12 .text.audio_queue_send 0000001c  00000000  00000000  00000080  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 13 .text.audio_queue_send_to_front 0000001c  00000000  00000000  0000009c  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 14 .text.audio_queue_recv 0000001c  00000000  00000000  000000b8  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 15 .text.audio_queue_message_available 00000010  00000000  00000000  000000d4  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 16 .text.audio_queue_spaces_available 00000010  00000000  00000000  000000e4  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+ 17 .debug_frame  000000b8  00000000  00000000  000000f4  2**2
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 18 .debug_info   000003f5  00000000  00000000  000001ac  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 19 .debug_abbrev 000000c5  00000000  00000000  000005a1  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 20 .debug_loc    000001a1  00000000  00000000  00000666  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 21 .debug_aranges 00000050  00000000  00000000  00000807  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 22 .debug_ranges 00000040  00000000  00000000  00000857  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 23 .debug_line   00000233  00000000  00000000  00000897  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 24 .debug_str    00000345  00000000  00000000  00000aca  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 25 .comment      0000003c  00000000  00000000  00000e0f  2**0
+                  CONTENTS, READONLY
+ 26 .xtensa.info  00000038  00000000  00000000  00000e4b  2**0
+                  CONTENTS, READONLY
+ 27 .xt.lit       00000038  00000000  00000000  00000e83  2**0
+                  CONTENTS, RELOC, READONLY
+ 28 .xt.prop      00000150  00000000  00000000  00000ebb  2**0
+                  CONTENTS, RELOC, READONLY
