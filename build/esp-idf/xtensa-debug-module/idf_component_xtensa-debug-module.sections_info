@@ -1,4 +1,4 @@
-In archive C:/Users/viboy/Downloads/Workspace/Workspace/test/voip/build/esp-idf/xtensa-debug-module/libxtensa-debug-module.a:
+In archive /home/dannv/esp/test/ytemoi_nuseCall/build/esp-idf/xtensa-debug-module/libxtensa-debug-module.a:
 
 eri.c.obj:     file format elf32-xtensa-le
 
@@ -26,15 +26,15 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  10 .debug_ranges 00000018  00000000  00000000  00000235  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 11 .debug_line   00000100  00000000  00000000  0000024d  2**0
+ 11 .debug_line   0000011b  00000000  00000000  0000024d  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 12 .debug_str    0000015b  00000000  00000000  0000034d  2**0
+ 12 .debug_str    00000164  00000000  00000000  00000368  2**0
                   CONTENTS, READONLY, DEBUGGING
- 13 .comment      0000003c  00000000  00000000  000004a8  2**0
+ 13 .comment      0000003b  00000000  00000000  000004cc  2**0
                   CONTENTS, READONLY
- 14 .xtensa.info  00000038  00000000  00000000  000004e4  2**0
+ 14 .xtensa.info  00000038  00000000  00000000  00000507  2**0
                   CONTENTS, READONLY
- 15 .xt.prop      00000048  00000000  00000000  0000051c  2**0
+ 15 .xt.prop      00000048  00000000  00000000  0000053f  2**0
                   CONTENTS, RELOC, READONLY
 
 trax.c.obj:     file format elf32-xtensa-le
@@ -73,15 +73,15 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  15 .debug_ranges 00000020  00000000  00000000  00000608  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 16 .debug_line   000001bb  00000000  00000000  00000628  2**0
+ 16 .debug_line   000001e8  00000000  00000000  00000628  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 17 .debug_str    0000031c  00000000  00000000  000007e3  2**0
+ 17 .debug_str    00000313  00000000  00000000  00000810  2**0
                   CONTENTS, READONLY, DEBUGGING
- 18 .comment      0000003c  00000000  00000000  00000aff  2**0
+ 18 .comment      0000003b  00000000  00000000  00000b23  2**0
                   CONTENTS, READONLY
- 19 .xtensa.info  00000038  00000000  00000000  00000b3b  2**0
+ 19 .xtensa.info  00000038  00000000  00000000  00000b5e  2**0
                   CONTENTS, READONLY
- 20 .xt.lit       00000018  00000000  00000000  00000b73  2**0
+ 20 .xt.lit       00000018  00000000  00000000  00000b96  2**0
                   CONTENTS, RELOC, READONLY
- 21 .xt.prop      00000090  00000000  00000000  00000b8b  2**0
+ 21 .xt.prop      00000090  00000000  00000000  00000bae  2**0
                   CONTENTS, RELOC, READONLY

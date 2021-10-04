@@ -1,4 +1,4 @@
-/* * Data converted from C:/esp/.espressif/esp-adf/components/dueros_service/duer_profile
+/* * Data converted from /home/dannv/esp/esp-adf/components/dueros_service/duer_profile
  */
 .data
 .section .rodata.embedded

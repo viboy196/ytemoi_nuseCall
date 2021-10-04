@@ -1,8 +1,8 @@
-# Install script for directory: C:/esp/esp-idf/components/mbedtls
+# Install script for directory: /home/dannv/esp/esp-idf/components/mbedtls
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/voip_app")
+  set(CMAKE_INSTALL_PREFIX "/usr/local")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/viboy/Downloads/Workspace/Workspace/test/voip/build/esp-idf/mbedtls/mbedtls/cmake_install.cmake")
+  include("/home/dannv/esp/test/ytemoi_nuseCall/build/esp-idf/mbedtls/mbedtls/cmake_install.cmake")
 
 endif()
 

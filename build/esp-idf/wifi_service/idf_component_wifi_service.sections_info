@@ -1,4 +1,4 @@
-In archive C:/Users/viboy/Downloads/Workspace/Workspace/test/voip/build/esp-idf/wifi_service/libwifi_service.a:
+In archive /home/dannv/esp/test/ytemoi_nuseCall/build/esp-idf/wifi_service/libwifi_service.a:
 
 esp_wifi_setting.c.obj:     file format elf32-xtensa-le
 
@@ -28,7 +28,7 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, ALLOC, LOAD, DATA
  11 .bss          00000000  00000000  00000000  00000150  2**0
                   ALLOC
- 12 .rodata.str1.1 000000af  00000000  00000000  00000150  2**0
+ 12 .rodata.str1.1 000000ad  00000000  00000000  00000150  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
  13 .text.esp_wifi_setting_create 00000092  00000000  00000000  00000200  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
@@ -80,17 +80,17 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  37 .debug_ranges 00000058  00000000  00000000  0000166e  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 38 .debug_line   000004b5  00000000  00000000  000016c6  2**0
+ 38 .debug_line   000004d1  00000000  00000000  000016c6  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 39 .debug_str    000006c0  00000000  00000000  00001b7b  2**0
+ 39 .debug_str    000006ac  00000000  00000000  00001b97  2**0
                   CONTENTS, READONLY, DEBUGGING
- 40 .comment      0000003c  00000000  00000000  0000223b  2**0
+ 40 .comment      0000003b  00000000  00000000  00002243  2**0
                   CONTENTS, READONLY
- 41 .xtensa.info  00000038  00000000  00000000  00002277  2**0
+ 41 .xtensa.info  00000038  00000000  00000000  0000227e  2**0
                   CONTENTS, READONLY
- 42 .xt.lit       00000048  00000000  00000000  000022af  2**0
+ 42 .xt.lit       00000048  00000000  00000000  000022b6  2**0
                   CONTENTS, RELOC, READONLY
- 43 .xt.prop      000002e8  00000000  00000000  000022f7  2**0
+ 43 .xt.prop      000002e8  00000000  00000000  000022fe  2**0
                   CONTENTS, RELOC, READONLY
 
 wifi_service.c.obj:     file format elf32-xtensa-le
@@ -151,7 +151,7 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   ALLOC
  26 .text.wifi_serv_state_send$constprop$4 0000002a  00000000  00000000  000005b0  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 27 .rodata.str1.1 0000087a  00000000  00000000  000005da  2**0
+ 27 .rodata.str1.1 00000878  00000000  00000000  000005da  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
  28 .text.wifi_event_cb 000001be  00000000  00000000  00000e54  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
@@ -247,17 +247,17 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  74 .debug_ranges 000000f0  00000000  00000000  00007381  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 75 .debug_line   000010be  00000000  00000000  00007471  2**0
+ 75 .debug_line   000010f9  00000000  00000000  00007471  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 76 .debug_str    00002931  00000000  00000000  0000852f  2**0
+ 76 .debug_str    0000291d  00000000  00000000  0000856a  2**0
                   CONTENTS, READONLY, DEBUGGING
- 77 .comment      0000003c  00000000  00000000  0000ae60  2**0
+ 77 .comment      0000003b  00000000  00000000  0000ae87  2**0
                   CONTENTS, READONLY
- 78 .xtensa.info  00000038  00000000  00000000  0000ae9c  2**0
+ 78 .xtensa.info  00000038  00000000  00000000  0000aec2  2**0
                   CONTENTS, READONLY
- 79 .xt.lit       000000b8  00000000  00000000  0000aed4  2**0
+ 79 .xt.lit       000000b8  00000000  00000000  0000aefa  2**0
                   CONTENTS, RELOC, READONLY
- 80 .xt.prop      00000a50  00000000  00000000  0000af8c  2**0
+ 80 .xt.prop      00000a50  00000000  00000000  0000afb2  2**0
                   CONTENTS, RELOC, READONLY
 
 wifi_ssid_manager.c.obj:     file format elf32-xtensa-le
@@ -302,85 +302,85 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, ALLOC, LOAD, DATA
  18 .bss          00000000  00000000  00000000  00000424  2**0
                   ALLOC
- 19 .rodata.str1.1 000004be  00000000  00000000  00000424  2**0
+ 19 .rodata.str1.1 000004bc  00000000  00000000  00000424  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 20 .text.nvs_ssid_list_conf_save 000000a6  00000000  00000000  000008e4  2**2
+ 20 .text.nvs_ssid_list_conf_save 000000a6  00000000  00000000  000008e0  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 21 .text.wifi_ssid_manager_init_nvs 00000068  00000000  00000000  0000098c  2**2
+ 21 .text.wifi_ssid_manager_init_nvs 00000068  00000000  00000000  00000988  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 22 .rodata       0000000c  00000000  00000000  000009f4  2**2
+ 22 .rodata       0000000c  00000000  00000000  000009f0  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, DATA
- 23 .text.nvs_ssid_list_conf_get 00000082  00000000  00000000  00000a00  2**2
+ 23 .text.nvs_ssid_list_conf_get 00000082  00000000  00000000  000009fc  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 24 .text.get_key_by_id 00000054  00000000  00000000  00000a84  2**2
+ 24 .text.get_key_by_id 00000054  00000000  00000000  00000a80  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 25 .text.nvs_wifi_info_get 00000086  00000000  00000000  00000ad8  2**2
+ 25 .text.nvs_wifi_info_get 00000086  00000000  00000000  00000ad4  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 26 .text.get_stored_id_by_ssid 0000005e  00000000  00000000  00000b60  2**2
+ 26 .text.get_stored_id_by_ssid 0000005e  00000000  00000000  00000b5c  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 27 .text.nvs_wifi_info_save 000000b2  00000000  00000000  00000bc0  2**2
+ 27 .text.nvs_wifi_info_save 000000b2  00000000  00000000  00000bbc  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 28 .text.nvs_reset_choosen_flag 0000006c  00000000  00000000  00000c74  2**2
+ 28 .text.nvs_reset_choosen_flag 0000006c  00000000  00000000  00000c70  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 29 .text.wifi_ssid_manager_create 000000c7  00000000  00000000  00000ce0  2**2
+ 29 .text.wifi_ssid_manager_create 000000c7  00000000  00000000  00000cdc  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 30 .text.wifi_ssid_manager_save 0000022e  00000000  00000000  00000da8  2**2
+ 30 .text.wifi_ssid_manager_save 0000022e  00000000  00000000  00000da4  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 31 .text.wifi_ssid_manager_get_latest_config 00000126  00000000  00000000  00000fd8  2**2
+ 31 .text.wifi_ssid_manager_get_latest_config 00000126  00000000  00000000  00000fd4  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 32 .text.wifi_ssid_manager_get_best_config 00000288  00000000  00000000  00001100  2**2
+ 32 .text.wifi_ssid_manager_get_best_config 00000288  00000000  00000000  000010fc  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 33 .text.wifi_ssid_manager_get_ssid_num 0000005a  00000000  00000000  00001388  2**2
+ 33 .text.wifi_ssid_manager_get_ssid_num 0000005a  00000000  00000000  00001384  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 34 .text.wifi_ssid_manager_list_show 000000ae  00000000  00000000  000013e4  2**2
+ 34 .text.wifi_ssid_manager_list_show 000000ae  00000000  00000000  000013e0  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 35 .text.wifi_ssid_manager_erase_all 000000cc  00000000  00000000  00001494  2**2
+ 35 .text.wifi_ssid_manager_erase_all 000000cc  00000000  00000000  00001490  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 36 .text.wifi_ssid_manager_destroy 000000a9  00000000  00000000  00001560  2**2
+ 36 .text.wifi_ssid_manager_destroy 000000a9  00000000  00000000  0000155c  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 37 .rodata.__FUNCTION__$8265 0000001a  00000000  00000000  00001609  2**0
+ 37 .rodata.__FUNCTION__$8265 0000001a  00000000  00000000  00001605  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 38 .rodata.__FUNCTION__$8256 0000001c  00000000  00000000  00001623  2**0
+ 38 .rodata.__FUNCTION__$8256 0000001c  00000000  00000000  0000161f  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 39 .rodata.__FUNCTION__$8245 0000001c  00000000  00000000  0000163f  2**0
+ 39 .rodata.__FUNCTION__$8245 0000001c  00000000  00000000  0000163b  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 40 .rodata.__FUNCTION__$8240 0000001f  00000000  00000000  0000165b  2**0
+ 40 .rodata.__FUNCTION__$8240 0000001f  00000000  00000000  00001657  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 41 .rodata.__FUNCTION__$8222 00000022  00000000  00000000  0000167a  2**0
+ 41 .rodata.__FUNCTION__$8222 00000022  00000000  00000000  00001676  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 42 .rodata.__FUNCTION__$8214 00000024  00000000  00000000  0000169c  2**0
+ 42 .rodata.__FUNCTION__$8214 00000024  00000000  00000000  00001698  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 43 .rodata.__FUNCTION__$8204 00000017  00000000  00000000  000016c0  2**0
+ 43 .rodata.__FUNCTION__$8204 00000017  00000000  00000000  000016bc  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 44 .rodata.__FUNCTION__$8102 0000000e  00000000  00000000  000016d7  2**0
+ 44 .rodata.__FUNCTION__$8102 0000000e  00000000  00000000  000016d3  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 45 .rodata.__func__$8189 0000001b  00000000  00000000  000016e5  2**0
+ 45 .rodata.__func__$8189 0000001b  00000000  00000000  000016e1  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 46 .rodata.__FUNCTION__$8194 00000019  00000000  00000000  00001700  2**0
+ 46 .rodata.__FUNCTION__$8194 00000019  00000000  00000000  000016fc  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 47 .debug_frame  00000190  00000000  00000000  0000171c  2**2
+ 47 .debug_frame  00000190  00000000  00000000  00001718  2**2
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 48 .debug_info   000027d9  00000000  00000000  000018ac  2**0
+ 48 .debug_info   000027d9  00000000  00000000  000018a8  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 49 .debug_abbrev 00000366  00000000  00000000  00004085  2**0
+ 49 .debug_abbrev 00000366  00000000  00000000  00004081  2**0
                   CONTENTS, READONLY, DEBUGGING
- 50 .debug_loc    00000aa4  00000000  00000000  000043eb  2**0
+ 50 .debug_loc    00000aa4  00000000  00000000  000043e7  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 51 .debug_aranges 00000098  00000000  00000000  00004e8f  2**0
+ 51 .debug_aranges 00000098  00000000  00000000  00004e8b  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 52 .debug_ranges 00000118  00000000  00000000  00004f27  2**0
+ 52 .debug_ranges 00000118  00000000  00000000  00004f23  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 53 .debug_line   00000d8e  00000000  00000000  0000503f  2**0
+ 53 .debug_line   00000db5  00000000  00000000  0000503b  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 54 .debug_str    00000d64  00000000  00000000  00005dcd  2**0
+ 54 .debug_str    00000d50  00000000  00000000  00005df0  2**0
                   CONTENTS, READONLY, DEBUGGING
- 55 .comment      0000003c  00000000  00000000  00006b31  2**0
+ 55 .comment      0000003b  00000000  00000000  00006b40  2**0
                   CONTENTS, READONLY
- 56 .xtensa.info  00000038  00000000  00000000  00006b6d  2**0
+ 56 .xtensa.info  00000038  00000000  00000000  00006b7b  2**0
                   CONTENTS, READONLY
- 57 .xt.lit       00000080  00000000  00000000  00006ba5  2**0
+ 57 .xt.lit       00000080  00000000  00000000  00006bb3  2**0
                   CONTENTS, RELOC, READONLY
- 58 .xt.prop      00000654  00000000  00000000  00006c25  2**0
+ 58 .xt.prop      00000654  00000000  00000000  00006c33  2**0
                   CONTENTS, RELOC, READONLY
 
 smart_config.c.obj:     file format elf32-xtensa-le
@@ -403,43 +403,43 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   ALLOC
   7 .text._smart_config_stop 0000000d  00000000  00000000  00000128  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
-  8 .rodata.str1.1 00000290  00000000  00000000  00000135  2**0
+  8 .rodata.str1.1 0000028e  00000000  00000000  00000135  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
-  9 .text._smart_config_start 00000072  00000000  00000000  000003c8  2**2
+  9 .text._smart_config_start 00000072  00000000  00000000  000003c4  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 10 .text.smartconfg_cb 00000118  00000000  00000000  0000043c  2**2
+ 10 .text.smartconfg_cb 00000118  00000000  00000000  00000438  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 11 .rodata.smartconfg_cb 00000014  00000000  00000000  00000554  2**2
+ 11 .rodata.smartconfg_cb 00000014  00000000  00000000  00000550  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, DATA
- 12 .text.smart_config_create 000000b8  00000000  00000000  00000568  2**2
+ 12 .text.smart_config_create 000000b8  00000000  00000000  00000564  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 13 .rodata.__FUNCTION__$7700 00000014  00000000  00000000  00000620  2**0
+ 13 .rodata.__FUNCTION__$7700 00000014  00000000  00000000  0000061c  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 14 .bss.sm_setting_handle 00000004  00000000  00000000  00000634  2**2
+ 14 .bss.sm_setting_handle 00000004  00000000  00000000  00000630  2**2
                   ALLOC
- 15 .debug_frame  00000070  00000000  00000000  00000634  2**2
+ 15 .debug_frame  00000070  00000000  00000000  00000630  2**2
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 16 .debug_info   0000094a  00000000  00000000  000006a4  2**0
+ 16 .debug_info   0000094a  00000000  00000000  000006a0  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 17 .debug_abbrev 000001cf  00000000  00000000  00000fee  2**0
+ 17 .debug_abbrev 000001cf  00000000  00000000  00000fea  2**0
                   CONTENTS, READONLY, DEBUGGING
- 18 .debug_loc    0000018e  00000000  00000000  000011bd  2**0
+ 18 .debug_loc    0000018e  00000000  00000000  000011b9  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 19 .debug_aranges 00000038  00000000  00000000  0000134b  2**0
+ 19 .debug_aranges 00000038  00000000  00000000  00001347  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 20 .debug_ranges 00000028  00000000  00000000  00001383  2**0
+ 20 .debug_ranges 00000028  00000000  00000000  0000137f  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 21 .debug_line   000003c9  00000000  00000000  000013ab  2**0
+ 21 .debug_line   000003e7  00000000  00000000  000013a7  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 22 .debug_str    0000074f  00000000  00000000  00001774  2**0
+ 22 .debug_str    0000073b  00000000  00000000  0000178e  2**0
                   CONTENTS, READONLY, DEBUGGING
- 23 .comment      0000003c  00000000  00000000  00001ec3  2**0
+ 23 .comment      0000003b  00000000  00000000  00001ec9  2**0
                   CONTENTS, READONLY
- 24 .xtensa.info  00000038  00000000  00000000  00001eff  2**0
+ 24 .xtensa.info  00000038  00000000  00000000  00001f04  2**0
                   CONTENTS, READONLY
- 25 .xt.lit       00000020  00000000  00000000  00001f37  2**0
+ 25 .xt.lit       00000020  00000000  00000000  00001f3c  2**0
                   CONTENTS, RELOC, READONLY
- 26 .xt.prop      000001c8  00000000  00000000  00001f57  2**0
+ 26 .xt.prop      000001c8  00000000  00000000  00001f5c  2**0
                   CONTENTS, RELOC, READONLY
 
 airkiss_config.c.obj:     file format elf32-xtensa-le
@@ -480,7 +480,7 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
  16 .text.airkiss_stop 00000049  00000000  00000000  000003d8  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 17 .rodata.str1.1 0000054b  00000000  00000000  00000421  2**0
+ 17 .rodata.str1.1 00000549  00000000  00000000  00000421  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
  18 .text.airkiss_start 00000228  00000000  00000000  0000096c  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
@@ -534,17 +534,17 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  43 .debug_ranges 00000120  00000000  00000000  00005255  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 44 .debug_line   00000cfc  00000000  00000000  00005375  2**0
+ 44 .debug_line   00000d49  00000000  00000000  00005375  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 45 .debug_str    0000149a  00000000  00000000  00006071  2**0
+ 45 .debug_str    00001486  00000000  00000000  000060be  2**0
                   CONTENTS, READONLY, DEBUGGING
- 46 .comment      0000003c  00000000  00000000  0000750b  2**0
+ 46 .comment      0000003b  00000000  00000000  00007544  2**0
                   CONTENTS, READONLY
- 47 .xtensa.info  00000038  00000000  00000000  00007547  2**0
+ 47 .xtensa.info  00000038  00000000  00000000  0000757f  2**0
                   CONTENTS, READONLY
- 48 .xt.lit       00000060  00000000  00000000  0000757f  2**0
+ 48 .xt.lit       00000060  00000000  00000000  000075b7  2**0
                   CONTENTS, RELOC, READONLY
- 49 .xt.prop      0000066c  00000000  00000000  000075df  2**0
+ 49 .xt.prop      0000066c  00000000  00000000  00007617  2**0
                   CONTENTS, RELOC, READONLY
 
 blufi_config.c.obj:     file format elf32-xtensa-le
@@ -569,7 +569,7 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   ALLOC
   8 .text._ble_config_stop 00000007  00000000  00000000  000000fc  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, CODE
-  9 .rodata.str1.1 00000148  00000000  00000000  00000103  2**0
+  9 .rodata.str1.1 00000146  00000000  00000000  00000103  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
  10 .text._ble_config_start 0000001f  00000000  00000000  0000024c  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
@@ -601,17 +601,17 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  24 .debug_ranges 00000038  00000000  00000000  00001136  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 25 .debug_line   0000036e  00000000  00000000  0000116e  2**0
+ 25 .debug_line   0000038c  00000000  00000000  0000116e  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 26 .debug_str    0000069f  00000000  00000000  000014dc  2**0
+ 26 .debug_str    0000068b  00000000  00000000  000014fa  2**0
                   CONTENTS, READONLY, DEBUGGING
- 27 .comment      0000003c  00000000  00000000  00001b7b  2**0
+ 27 .comment      0000003b  00000000  00000000  00001b85  2**0
                   CONTENTS, READONLY
- 28 .xtensa.info  00000038  00000000  00000000  00001bb7  2**0
+ 28 .xtensa.info  00000038  00000000  00000000  00001bc0  2**0
                   CONTENTS, READONLY
- 29 .xt.lit       00000028  00000000  00000000  00001bef  2**0
+ 29 .xt.lit       00000028  00000000  00000000  00001bf8  2**0
                   CONTENTS, RELOC, READONLY
- 30 .xt.prop      000001b0  00000000  00000000  00001c17  2**0
+ 30 .xt.prop      000001b0  00000000  00000000  00001c20  2**0
                   CONTENTS, RELOC, READONLY
 
 blufi_security.c.obj:     file format elf32-xtensa-le
@@ -626,9 +626,9 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   ALLOC
   3 .debug_line   00000000  00000000  00000000  00000034  2**0
                   CONTENTS, READONLY, DEBUGGING
-  4 .debug_str    000000dd  00000000  00000000  00000034  2**0
+  4 .debug_str    000000db  00000000  00000000  00000034  2**0
                   CONTENTS, READONLY, DEBUGGING
-  5 .comment      0000003c  00000000  00000000  00000111  2**0
+  5 .comment      0000003b  00000000  00000000  0000010f  2**0
                   CONTENTS, READONLY
-  6 .xtensa.info  00000038  00000000  00000000  0000014d  2**0
+  6 .xtensa.info  00000038  00000000  00000000  0000014a  2**0
                   CONTENTS, READONLY

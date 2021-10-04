@@ -1,4 +1,4 @@
-In archive C:/Users/viboy/Downloads/Workspace/Workspace/test/voip/build/esp-idf/input_key_service/libinput_key_service.a:
+In archive /home/dannv/esp/test/ytemoi_nuseCall/build/esp-idf/input_key_service/libinput_key_service.a:
 
 input_key_service.c.obj:     file format elf32-xtensa-le
 
@@ -22,51 +22,51 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   ALLOC
   8 .text.input_key_service_stop 00000007  00000000  00000000  00000174  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, CODE
-  9 .rodata.str1.1 00000156  00000000  00000000  0000017b  2**0
+  9 .rodata.str1.1 00000154  00000000  00000000  0000017b  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 10 .text.input_key_service_task 00000139  00000000  00000000  000002d4  2**2
+ 10 .text.input_key_service_task 00000139  00000000  00000000  000002d0  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 11 .text.input_key_service_destroy 00000090  00000000  00000000  00000410  2**2
+ 11 .text.input_key_service_destroy 00000090  00000000  00000000  0000040c  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 12 .text.input_key_service_start 00000007  00000000  00000000  000004a0  2**2
+ 12 .text.input_key_service_start 00000007  00000000  00000000  0000049c  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, CODE
- 13 .text.get_input_key_service_state 00000040  00000000  00000000  000004a8  2**2
+ 13 .text.get_input_key_service_state 00000040  00000000  00000000  000004a4  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 14 .text.input_key_service_add_key 000000f3  00000000  00000000  000004e8  2**2
+ 14 .text.input_key_service_add_key 000000f3  00000000  00000000  000004e4  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 15 .text.input_key_service_create 00000133  00000000  00000000  000005dc  2**2
+ 15 .text.input_key_service_create 00000133  00000000  00000000  000005d8  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 16 .rodata.__FUNCTION__$8253 00000020  00000000  00000000  0000070f  2**0
+ 16 .rodata.__FUNCTION__$8253 00000020  00000000  00000000  0000070b  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 17 .rodata.__FUNCTION__$8294 0000001a  00000000  00000000  0000072f  2**0
+ 17 .rodata.__FUNCTION__$8294 0000001a  00000000  00000000  0000072b  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 18 .rodata.__FUNCTION__$8315 00000019  00000000  00000000  00000749  2**0
+ 18 .rodata.__FUNCTION__$8315 00000019  00000000  00000000  00000745  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 19 .rodata.__FUNCTION__$8305 0000001a  00000000  00000000  00000762  2**0
+ 19 .rodata.__FUNCTION__$8305 0000001a  00000000  00000000  0000075e  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 20 .rodata.__FUNCTION__$8298 0000001c  00000000  00000000  0000077c  2**0
+ 20 .rodata.__FUNCTION__$8298 0000001c  00000000  00000000  00000778  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 21 .debug_frame  000000b8  00000000  00000000  00000798  2**2
+ 21 .debug_frame  000000b8  00000000  00000000  00000794  2**2
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 22 .debug_info   0000105d  00000000  00000000  00000850  2**0
+ 22 .debug_info   0000105d  00000000  00000000  0000084c  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 23 .debug_abbrev 000002e4  00000000  00000000  000018ad  2**0
+ 23 .debug_abbrev 000002e4  00000000  00000000  000018a9  2**0
                   CONTENTS, READONLY, DEBUGGING
- 24 .debug_loc    0000046f  00000000  00000000  00001b91  2**0
+ 24 .debug_loc    0000046f  00000000  00000000  00001b8d  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 25 .debug_aranges 00000048  00000000  00000000  00002000  2**0
+ 25 .debug_aranges 00000048  00000000  00000000  00001ffc  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 26 .debug_ranges 00000088  00000000  00000000  00002048  2**0
+ 26 .debug_ranges 00000088  00000000  00000000  00002044  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 27 .debug_line   00000707  00000000  00000000  000020d0  2**0
+ 27 .debug_line   00000728  00000000  00000000  000020cc  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 28 .debug_str    00000a4a  00000000  00000000  000027d7  2**0
+ 28 .debug_str    00000a36  00000000  00000000  000027f4  2**0
                   CONTENTS, READONLY, DEBUGGING
- 29 .comment      0000003c  00000000  00000000  00003221  2**0
+ 29 .comment      0000003b  00000000  00000000  0000322a  2**0
                   CONTENTS, READONLY
- 30 .xtensa.info  00000038  00000000  00000000  0000325d  2**0
+ 30 .xtensa.info  00000038  00000000  00000000  00003265  2**0
                   CONTENTS, READONLY
- 31 .xt.lit       00000028  00000000  00000000  00003295  2**0
+ 31 .xt.lit       00000028  00000000  00000000  0000329d  2**0
                   CONTENTS, RELOC, READONLY
- 32 .xt.prop      00000300  00000000  00000000  000032bd  2**0
+ 32 .xt.prop      00000300  00000000  00000000  000032c5  2**0
                   CONTENTS, RELOC, READONLY

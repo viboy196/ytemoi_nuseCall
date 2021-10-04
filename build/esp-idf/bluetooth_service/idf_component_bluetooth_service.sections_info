@@ -1,4 +1,4 @@
-In archive C:/Users/viboy/Downloads/Workspace/Workspace/test/voip/build/esp-idf/bluetooth_service/libbluetooth_service.a:
+In archive /home/dannv/esp/test/ytemoi_nuseCall/build/esp-idf/bluetooth_service/libbluetooth_service.a:
 
 bluetooth_service.c.obj:     file format elf32-xtensa-le
 
@@ -18,11 +18,11 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
   6 .debug_line   0000001d  00000000  00000000  000000eb  2**0
                   CONTENTS, READONLY, DEBUGGING
-  7 .debug_str    000001ad  00000000  00000000  00000108  2**0
+  7 .debug_str    00000199  00000000  00000000  00000108  2**0
                   CONTENTS, READONLY, DEBUGGING
-  8 .comment      0000003c  00000000  00000000  000002b5  2**0
+  8 .comment      0000003b  00000000  00000000  000002a1  2**0
                   CONTENTS, READONLY
-  9 .xtensa.info  00000038  00000000  00000000  000002f1  2**0
+  9 .xtensa.info  00000038  00000000  00000000  000002dc  2**0
                   CONTENTS, READONLY
 
 bt_keycontrol.c.obj:     file format elf32-xtensa-le
@@ -43,11 +43,11 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
   6 .debug_line   0000001d  00000000  00000000  000000eb  2**0
                   CONTENTS, READONLY, DEBUGGING
-  7 .debug_str    000001a9  00000000  00000000  00000108  2**0
+  7 .debug_str    00000195  00000000  00000000  00000108  2**0
                   CONTENTS, READONLY, DEBUGGING
-  8 .comment      0000003c  00000000  00000000  000002b1  2**0
+  8 .comment      0000003b  00000000  00000000  0000029d  2**0
                   CONTENTS, READONLY
-  9 .xtensa.info  00000038  00000000  00000000  000002ed  2**0
+  9 .xtensa.info  00000038  00000000  00000000  000002d8  2**0
                   CONTENTS, READONLY
 
 a2dp_stream.c.obj:     file format elf32-xtensa-le
@@ -68,11 +68,11 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
   6 .debug_line   0000001d  00000000  00000000  000000eb  2**0
                   CONTENTS, READONLY, DEBUGGING
-  7 .debug_str    000001a7  00000000  00000000  00000108  2**0
+  7 .debug_str    00000193  00000000  00000000  00000108  2**0
                   CONTENTS, READONLY, DEBUGGING
-  8 .comment      0000003c  00000000  00000000  000002af  2**0
+  8 .comment      0000003b  00000000  00000000  0000029b  2**0
                   CONTENTS, READONLY
-  9 .xtensa.info  00000038  00000000  00000000  000002eb  2**0
+  9 .xtensa.info  00000038  00000000  00000000  000002d6  2**0
                   CONTENTS, READONLY
 
 hfp_stream.c.obj:     file format elf32-xtensa-le
@@ -93,9 +93,9 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
   6 .debug_line   0000001d  00000000  00000000  000000eb  2**0
                   CONTENTS, READONLY, DEBUGGING
-  7 .debug_str    000001a6  00000000  00000000  00000108  2**0
+  7 .debug_str    00000192  00000000  00000000  00000108  2**0
                   CONTENTS, READONLY, DEBUGGING
-  8 .comment      0000003c  00000000  00000000  000002ae  2**0
+  8 .comment      0000003b  00000000  00000000  0000029a  2**0
                   CONTENTS, READONLY
-  9 .xtensa.info  00000038  00000000  00000000  000002ea  2**0
+  9 .xtensa.info  00000038  00000000  00000000  000002d5  2**0
                   CONTENTS, READONLY

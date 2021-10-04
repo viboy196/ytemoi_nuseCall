@@ -1,13 +1,13 @@
 # Target labels
  bootloader
 # Source files and their labels
-C:/Users/viboy/Downloads/Workspace/Workspace/test/voip/build/CMakeFiles/bootloader
-C:/Users/viboy/Downloads/Workspace/Workspace/test/voip/build/CMakeFiles/bootloader.rule
-C:/Users/viboy/Downloads/Workspace/Workspace/test/voip/build/CMakeFiles/bootloader-complete.rule
-C:/Users/viboy/Downloads/Workspace/Workspace/test/voip/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
-C:/Users/viboy/Downloads/Workspace/Workspace/test/voip/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
-C:/Users/viboy/Downloads/Workspace/Workspace/test/voip/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
-C:/Users/viboy/Downloads/Workspace/Workspace/test/voip/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
-C:/Users/viboy/Downloads/Workspace/Workspace/test/voip/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
-C:/Users/viboy/Downloads/Workspace/Workspace/test/voip/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
-C:/Users/viboy/Downloads/Workspace/Workspace/test/voip/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/dannv/esp/test/ytemoi_nuseCall/build/CMakeFiles/bootloader
+/home/dannv/esp/test/ytemoi_nuseCall/build/CMakeFiles/bootloader.rule
+/home/dannv/esp/test/ytemoi_nuseCall/build/CMakeFiles/bootloader-complete.rule
+/home/dannv/esp/test/ytemoi_nuseCall/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/dannv/esp/test/ytemoi_nuseCall/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/dannv/esp/test/ytemoi_nuseCall/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/dannv/esp/test/ytemoi_nuseCall/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/dannv/esp/test/ytemoi_nuseCall/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/dannv/esp/test/ytemoi_nuseCall/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/dannv/esp/test/ytemoi_nuseCall/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

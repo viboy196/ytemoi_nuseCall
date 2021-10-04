@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/viboy/Downloads/Workspace/Workspace/test/voip/main
+# Install script for directory: /home/dannv/esp/test/ytemoi_nuseCall/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/voip_app")
+  set(CMAKE_INSTALL_PREFIX "/usr/local")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

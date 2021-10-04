@@ -1,4 +1,4 @@
-In archive C:/Users/viboy/Downloads/Workspace/Workspace/test/voip/build/esp-idf/coredump_upload_service/libcoredump_upload_service.a:
+In archive /home/dannv/esp/test/ytemoi_nuseCall/build/esp-idf/coredump_upload_service/libcoredump_upload_service.a:
 
 coredump_upload_service.c.obj:     file format elf32-xtensa-le
 
@@ -22,49 +22,49 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, ALLOC, LOAD, DATA
   8 .bss          00000000  00000000  00000000  000001e8  2**0
                   ALLOC
-  9 .rodata.str1.1 0000024d  00000000  00000000  000001e8  2**0
+  9 .rodata.str1.1 0000024b  00000000  00000000  000001e8  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 10 .text.coredump_upload_deinit 000000a1  00000000  00000000  00000438  2**2
+ 10 .text.coredump_upload_deinit 000000a1  00000000  00000000  00000434  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 11 .text.coredump_do_http_post 000000b6  00000000  00000000  000004dc  2**2
+ 11 .text.coredump_do_http_post 000000b6  00000000  00000000  000004d8  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 12 .text.coredump_upload_task 00000177  00000000  00000000  00000594  2**2
+ 12 .text.coredump_upload_task 00000177  00000000  00000000  00000590  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 13 .text.coredump_need_upload 00000042  00000000  00000000  0000070c  2**2
+ 13 .text.coredump_need_upload 00000042  00000000  00000000  00000708  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 14 .text.coredump_upload 000000c5  00000000  00000000  00000750  2**2
+ 14 .text.coredump_upload 000000c5  00000000  00000000  0000074c  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 15 .text.coredump_upload_service_create 00000176  00000000  00000000  00000818  2**2
+ 15 .text.coredump_upload_service_create 00000176  00000000  00000000  00000814  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 16 .rodata.__FUNCTION__$6060 0000000e  00000000  00000000  0000098e  2**0
+ 16 .rodata.__FUNCTION__$6060 0000000e  00000000  00000000  0000098a  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 17 .rodata.__FUNCTION__$6118 0000001f  00000000  00000000  0000099c  2**0
+ 17 .rodata.__FUNCTION__$6118 0000001f  00000000  00000000  00000998  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 18 .rodata.__FUNCTION__$6111 00000017  00000000  00000000  000009bb  2**0
+ 18 .rodata.__FUNCTION__$6111 00000017  00000000  00000000  000009b7  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 19 .rodata.__FUNCTION__$6104 00000010  00000000  00000000  000009d2  2**0
+ 19 .rodata.__FUNCTION__$6104 00000010  00000000  00000000  000009ce  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 20 .debug_frame  000000a0  00000000  00000000  000009e4  2**2
+ 20 .debug_frame  000000a0  00000000  00000000  000009e0  2**2
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 21 .debug_info   00001367  00000000  00000000  00000a84  2**0
+ 21 .debug_info   00001367  00000000  00000000  00000a80  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 22 .debug_abbrev 000002b7  00000000  00000000  00001deb  2**0
+ 22 .debug_abbrev 000002b7  00000000  00000000  00001de7  2**0
                   CONTENTS, READONLY, DEBUGGING
- 23 .debug_loc    00000386  00000000  00000000  000020a2  2**0
+ 23 .debug_loc    00000386  00000000  00000000  0000209e  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 24 .debug_aranges 00000048  00000000  00000000  00002428  2**0
+ 24 .debug_aranges 00000048  00000000  00000000  00002424  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 25 .debug_ranges 00000080  00000000  00000000  00002470  2**0
+ 25 .debug_ranges 00000080  00000000  00000000  0000246c  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 26 .debug_line   00000759  00000000  00000000  000024f0  2**0
+ 26 .debug_line   0000079d  00000000  00000000  000024ec  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 27 .debug_str    00000c6b  00000000  00000000  00002c49  2**0
+ 27 .debug_str    00000c57  00000000  00000000  00002c89  2**0
                   CONTENTS, READONLY, DEBUGGING
- 28 .comment      0000003c  00000000  00000000  000038b4  2**0
+ 28 .comment      0000003b  00000000  00000000  000038e0  2**0
                   CONTENTS, READONLY
- 29 .xtensa.info  00000038  00000000  00000000  000038f0  2**0
+ 29 .xtensa.info  00000038  00000000  00000000  0000391b  2**0
                   CONTENTS, READONLY
- 30 .xt.lit       00000030  00000000  00000000  00003928  2**0
+ 30 .xt.lit       00000030  00000000  00000000  00003953  2**0
                   CONTENTS, RELOC, READONLY
- 31 .xt.prop      000002a0  00000000  00000000  00003958  2**0
+ 31 .xt.prop      000002a0  00000000  00000000  00003983  2**0
                   CONTENTS, RELOC, READONLY

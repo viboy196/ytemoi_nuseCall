@@ -1,8 +1,8 @@
 {
     "project_name":       "bootloader",
-    "project_path":       "C:/esp/esp-idf/components/bootloader/subproject",
-    "build_dir":          "C:/Users/viboy/Downloads/Workspace/Workspace/test/voip/build/bootloader",
-    "config_file":        "C:/Users/viboy/Downloads/Workspace/Workspace/test/voip/sdkconfig",
+    "project_path":       "/home/dannv/esp/esp-idf/components/bootloader/subproject",
+    "build_dir":          "/home/dannv/esp/test/ytemoi_nuseCall/build/bootloader",
+    "config_file":        "/home/dannv/esp/test/ytemoi_nuseCall/sdkconfig",
     "config_defaults":    "",
     "app_elf":            "bootloader.elf",
     "app_bin":            "bootloader.bin",
@@ -10,9 +10,9 @@
     "phy_data_partition": "",
     "monitor_baud" : "115200",
     "config_environment" : {
-        "COMPONENT_KCONFIGS" : " C:/esp/esp-idf/components/efuse/Kconfig C:/esp/esp-idf/components/esp32/Kconfig C:/esp/esp-idf/components/log/Kconfig C:/esp/esp-idf/components/spi_flash/Kconfig",
-        "COMPONENT_KCONFIGS_PROJBUILD" : " C:/esp/esp-idf/components/bootloader/Kconfig.projbuild C:/esp/esp-idf/components/esptool_py/Kconfig.projbuild C:/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+        "COMPONENT_KCONFIGS" : " /home/dannv/esp/esp-idf/components/efuse/Kconfig /home/dannv/esp/esp-idf/components/esp32/Kconfig /home/dannv/esp/esp-idf/components/log/Kconfig /home/dannv/esp/esp-idf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : " /home/dannv/esp/esp-idf/components/bootloader/Kconfig.projbuild /home/dannv/esp/esp-idf/components/esptool_py/Kconfig.projbuild /home/dannv/esp/esp-idf/components/partition_table/Kconfig.projbuild"
     },
     "build_components" : [ "soc", "esp32", "log", "bootloader", "spi_flash", "micro-ecc", "efuse", "bootloader_support", "main", "esptool_py", "partition_table" ],
-    "build_component_paths" : [ "C:/esp/esp-idf/components/soc", "C:/esp/esp-idf/components/esp32", "C:/esp/esp-idf/components/log", "C:/esp/esp-idf/components/bootloader", "C:/esp/esp-idf/components/spi_flash", "C:/esp/esp-idf/components/micro-ecc", "C:/esp/esp-idf/components/efuse", "C:/esp/esp-idf/components/bootloader_support", "C:/esp/esp-idf/components/bootloader/subproject/main", "C:/esp/esp-idf/components/esptool_py", "C:/esp/esp-idf/components/partition_table" ]
+    "build_component_paths" : [ "/home/dannv/esp/esp-idf/components/soc", "/home/dannv/esp/esp-idf/components/esp32", "/home/dannv/esp/esp-idf/components/log", "/home/dannv/esp/esp-idf/components/bootloader", "/home/dannv/esp/esp-idf/components/spi_flash", "/home/dannv/esp/esp-idf/components/micro-ecc", "/home/dannv/esp/esp-idf/components/efuse", "/home/dannv/esp/esp-idf/components/bootloader_support", "/home/dannv/esp/esp-idf/components/bootloader/subproject/main", "/home/dannv/esp/esp-idf/components/esptool_py", "/home/dannv/esp/esp-idf/components/partition_table" ]
 }

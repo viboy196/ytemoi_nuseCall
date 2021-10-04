@@ -2,34 +2,34 @@
 	"sources" : 
 	[
 		{
-			"file" : "C:/Users/viboy/Downloads/Workspace/Workspace/test/voip/build/CMakeFiles/bootloader"
+			"file" : "/home/dannv/esp/test/ytemoi_nuseCall/build/CMakeFiles/bootloader"
 		},
 		{
-			"file" : "C:/Users/viboy/Downloads/Workspace/Workspace/test/voip/build/CMakeFiles/bootloader.rule"
+			"file" : "/home/dannv/esp/test/ytemoi_nuseCall/build/CMakeFiles/bootloader.rule"
 		},
 		{
-			"file" : "C:/Users/viboy/Downloads/Workspace/Workspace/test/voip/build/CMakeFiles/bootloader-complete.rule"
+			"file" : "/home/dannv/esp/test/ytemoi_nuseCall/build/CMakeFiles/bootloader-complete.rule"
 		},
 		{
-			"file" : "C:/Users/viboy/Downloads/Workspace/Workspace/test/voip/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+			"file" : "/home/dannv/esp/test/ytemoi_nuseCall/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
 		},
 		{
-			"file" : "C:/Users/viboy/Downloads/Workspace/Workspace/test/voip/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+			"file" : "/home/dannv/esp/test/ytemoi_nuseCall/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
 		},
 		{
-			"file" : "C:/Users/viboy/Downloads/Workspace/Workspace/test/voip/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+			"file" : "/home/dannv/esp/test/ytemoi_nuseCall/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
 		},
 		{
-			"file" : "C:/Users/viboy/Downloads/Workspace/Workspace/test/voip/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+			"file" : "/home/dannv/esp/test/ytemoi_nuseCall/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
 		},
 		{
-			"file" : "C:/Users/viboy/Downloads/Workspace/Workspace/test/voip/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+			"file" : "/home/dannv/esp/test/ytemoi_nuseCall/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
 		},
 		{
-			"file" : "C:/Users/viboy/Downloads/Workspace/Workspace/test/voip/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+			"file" : "/home/dannv/esp/test/ytemoi_nuseCall/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
 		},
 		{
-			"file" : "C:/Users/viboy/Downloads/Workspace/Workspace/test/voip/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+			"file" : "/home/dannv/esp/test/ytemoi_nuseCall/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
 		}
 	],
 	"target" : 

@@ -1,4 +1,4 @@
-In archive C:/Users/viboy/Downloads/Workspace/Workspace/test/voip/build/esp-idf/tone_partition/libtone_partition.a:
+In archive /home/dannv/esp/test/ytemoi_nuseCall/build/esp-idf/tone_partition/libtone_partition.a:
 
 tone_partition.c.obj:     file format elf32-xtensa-le
 
@@ -28,47 +28,47 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
  11 .text.partition_find_with_dispatcher 00000042  00000000  00000000  000001c0  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 12 .rodata.str1.1 0000029c  00000000  00000000  00000202  2**0
+ 12 .rodata.str1.1 0000029a  00000000  00000000  00000202  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 13 .text.tone_partition_get_file_info 00000100  00000000  00000000  000004a0  2**2
+ 13 .text.tone_partition_get_file_info 00000100  00000000  00000000  0000049c  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 14 .text.tone_partition_file_read 000000a6  00000000  00000000  000005a0  2**2
+ 14 .text.tone_partition_file_read 000000a6  00000000  00000000  0000059c  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 15 .text.tone_partition_get_app_desc 0000003c  00000000  00000000  00000648  2**2
+ 15 .text.tone_partition_get_app_desc 0000003c  00000000  00000000  00000644  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 16 .text.tone_partition_init 000001a8  00000000  00000000  00000684  2**2
+ 16 .text.tone_partition_init 000001a8  00000000  00000000  00000680  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 17 .text.tone_partition_deinit 00000042  00000000  00000000  0000082c  2**2
+ 17 .text.tone_partition_deinit 00000042  00000000  00000000  00000828  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 18 .rodata.__FUNCTION__$3790 00000016  00000000  00000000  0000086e  2**0
+ 18 .rodata.__FUNCTION__$3790 00000016  00000000  00000000  0000086a  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 19 .rodata.__FUNCTION__$3783 00000014  00000000  00000000  00000884  2**0
+ 19 .rodata.__FUNCTION__$3783 00000014  00000000  00000000  00000880  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 20 .rodata.__FUNCTION__$3766 00000019  00000000  00000000  00000898  2**0
+ 20 .rodata.__FUNCTION__$3766 00000019  00000000  00000000  00000894  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 21 .rodata.__FUNCTION__$3756 0000001d  00000000  00000000  000008b1  2**0
+ 21 .rodata.__FUNCTION__$3756 0000001d  00000000  00000000  000008ad  2**0
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 22 .debug_frame  000000b8  00000000  00000000  000008d0  2**2
+ 22 .debug_frame  000000b8  00000000  00000000  000008cc  2**2
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 23 .debug_info   00000efe  00000000  00000000  00000988  2**0
+ 23 .debug_info   00000efe  00000000  00000000  00000984  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 24 .debug_abbrev 00000294  00000000  00000000  00001886  2**0
+ 24 .debug_abbrev 00000294  00000000  00000000  00001882  2**0
                   CONTENTS, READONLY, DEBUGGING
- 25 .debug_loc    000002e1  00000000  00000000  00001b1a  2**0
+ 25 .debug_loc    000002e1  00000000  00000000  00001b16  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 26 .debug_aranges 00000050  00000000  00000000  00001dfb  2**0
+ 26 .debug_aranges 00000050  00000000  00000000  00001df7  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 27 .debug_ranges 00000058  00000000  00000000  00001e4b  2**0
+ 27 .debug_ranges 00000058  00000000  00000000  00001e47  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 28 .debug_line   000006fd  00000000  00000000  00001ea3  2**0
+ 28 .debug_line   0000072d  00000000  00000000  00001e9f  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 29 .debug_str    00000b03  00000000  00000000  000025a0  2**0
+ 29 .debug_str    00000aef  00000000  00000000  000025cc  2**0
                   CONTENTS, READONLY, DEBUGGING
- 30 .comment      0000003c  00000000  00000000  000030a3  2**0
+ 30 .comment      0000003b  00000000  00000000  000030bb  2**0
                   CONTENTS, READONLY
- 31 .xtensa.info  00000038  00000000  00000000  000030df  2**0
+ 31 .xtensa.info  00000038  00000000  00000000  000030f6  2**0
                   CONTENTS, READONLY
- 32 .xt.lit       00000038  00000000  00000000  00003117  2**0
+ 32 .xt.lit       00000038  00000000  00000000  0000312e  2**0
                   CONTENTS, RELOC, READONLY
- 33 .xt.prop      00000360  00000000  00000000  0000314f  2**0
+ 33 .xt.prop      00000360  00000000  00000000  00003166  2**0
                   CONTENTS, RELOC, READONLY

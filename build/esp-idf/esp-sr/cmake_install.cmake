@@ -1,8 +1,8 @@
-# Install script for directory: C:/esp/.espressif/esp-adf/components/esp-sr
+# Install script for directory: /home/dannv/esp/esp-adf/components/esp-sr
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/voip_app")
+  set(CMAKE_INSTALL_PREFIX "/usr/local")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

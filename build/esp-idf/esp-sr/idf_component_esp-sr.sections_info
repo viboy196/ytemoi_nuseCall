@@ -1,4 +1,4 @@
-In archive C:/Users/viboy/Downloads/Workspace/Workspace/test/voip/build/esp-idf/esp-sr/libesp-sr.a:
+In archive /home/dannv/esp/test/ytemoi_nuseCall/build/esp-idf/esp-sr/libesp-sr.a:
 
 mn_process_commands.c.obj:     file format elf32-xtensa-le
 
@@ -32,15 +32,15 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  13 .debug_ranges 00000018  00000000  00000000  0000051e  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 14 .debug_line   0000023e  00000000  00000000  00000536  2**0
+ 14 .debug_line   0000023a  00000000  00000000  00000536  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 15 .debug_str    00000232  00000000  00000000  00000774  2**0
+ 15 .debug_str    0000021e  00000000  00000000  00000770  2**0
                   CONTENTS, READONLY, DEBUGGING
- 16 .comment      0000003c  00000000  00000000  000009a6  2**0
+ 16 .comment      0000003b  00000000  00000000  0000098e  2**0
                   CONTENTS, READONLY
- 17 .xtensa.info  00000038  00000000  00000000  000009e2  2**0
+ 17 .xtensa.info  00000038  00000000  00000000  000009c9  2**0
                   CONTENTS, READONLY
- 18 .xt.lit       00000010  00000000  00000000  00000a1a  2**0
+ 18 .xt.lit       00000010  00000000  00000000  00000a01  2**0
                   CONTENTS, RELOC, READONLY
- 19 .xt.prop      0000006c  00000000  00000000  00000a2a  2**0
+ 19 .xt.prop      0000006c  00000000  00000000  00000a11  2**0
                   CONTENTS, RELOC, READONLY
